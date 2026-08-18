@@ -1,10 +1,10 @@
 # shandongren-bot
 Test if you are a pure-blooded native of Shandong with Python and Tkinter. Just for fun. Don't take it seriously pls！！！
 ## Features
--Simple GUI built with Tkinter
--Two extremely difficult choices
--Scientifically questionable results
--100% accuracy according to the developer
+- Simple GUI built with Tkinter
+- Two extremely difficult choices
+- Scientifically questionable results
+- 100% accuracy according to the developer
 ## Run
 Install Pillow:
 `pip install Pillow`
